@@ -13,5 +13,6 @@ public class Fruit {
         int tep=tot%8;
         empty=8-tep;
        }
+       System.out.println("NO OF BOXES="+box+""+" EMPTY BOXES= "+empty);
     }
 }
